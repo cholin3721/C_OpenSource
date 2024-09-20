@@ -1,0 +1,6 @@
+4주차 수업내용
+- cd ..
+- 기초 깃 명령어
+clone
+-git config --list
+-git config --list
