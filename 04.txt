@@ -4,3 +4,6 @@
 clone
 -git config --list
 -git config --list
+
+-기초 깃 명령어
+  fetch, pull
